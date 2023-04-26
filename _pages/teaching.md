@@ -8,7 +8,7 @@ author_profile: true
 
 During the first year of my PhD, I have thought multiple lectures to veterinary and Master's students.
 
-## One Health economics
+## One Health Economics
   MCM 586: Human Dimenstions of Conservation medicine  
   Explored economic concepts, including cost-consequence analysis and multi-stakeholder decision analysis in the context of One Health systems
 
