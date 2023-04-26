@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "Holden, MA, USA"
 title                    : "Evan Griffith / One Health Systems"
 title_separator          : "-"
 name                     : "Evan Griffith"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Evan Griffith"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "PhD Student"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : "Holden, MA, USA"
+  employer         : "Tufts University"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Evan-Griffith"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "evfitzgriff"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9262-1215"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "evfitzgriff"
   vine             :
   weibo            :
   xing             :
@@ -175,16 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  lectures:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  curiculum vitae:
     output: true
     permalink: /:collection/:path/
 
@@ -209,10 +206,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _lectures
   - scope:
       path: ""
-      type: teaching
+      type: lectures
     values:
       layout: single
       author_profile: true
@@ -227,23 +224,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _curiculum vitae
   - scope:
       path: ""
-      type: portfolio
+      type: curiculm vitae
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
