@@ -1,8 +1,8 @@
 ---
-title: "teaching"
-peramlink: /teaching/
-author-profile: true
----
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 
 # Teaching
 
