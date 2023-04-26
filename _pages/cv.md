@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for CV [PDF]]()
+[Click here for CV [PDF]](files/EFG_CV_2023.pdf)
