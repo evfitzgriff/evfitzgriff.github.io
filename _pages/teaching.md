@@ -1,3 +1,9 @@
+---
+title: "teaching"
+peramlink: /teaching/
+author-profile: true
+---
+
 # Teaching
 
 During the first year of my PhD, I have thought multiple lectures to veterinary and Master's students.
