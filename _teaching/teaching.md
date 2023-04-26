@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
-
 During the first year of my PhD, I have thought multiple lectures to veterinary and Master's students.
 
 ## One Health Economics
