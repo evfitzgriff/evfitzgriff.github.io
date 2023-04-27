@@ -5,9 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
-
-During the first year of my PhD, I have thought multiple lectures to veterinary and Master's students.
+During the first year of my PhD, I have taught multiple lectures to veterinary and Master's students. I always try to involve the students as much as possible, either through break-out groups or asking questions. I'm looking forward to future opportunities to teach in the various graduate programs at the Cummings School. 
 
 ## One Health Economics
   MCM: Human Dimenstions of Conservation Medicine  
