@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for CV [PDF]](https://github.com/evfitzgriff/evfitzgriff.github.io/blob/befbb296196783d7c8f943aec779336cb5e9f87f/files/EFG_CV_2023.pdf)
+You can [download pdf](https://evfitzgriff.gihub.io/files/EFG_CV_2023.pdf)here
