@@ -16,3 +16,4 @@ We recently published a study on the [the use of drones to improve Rift Valley F
 
 Our CABI One Health Case Study titled: "One Health in Turkana County, Kenya: Applications and Lessons Learned," is currently under review. It examines the development and application of One Health policy in Turkana. Keep an eye out for that! 
 
+![Zipline drones in the Muhanga facility.](https://evfitzgriff.github.io.images/IMG-20190617-WA0023.jpg)
