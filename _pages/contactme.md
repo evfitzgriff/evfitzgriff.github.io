@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Contact Me"
-permalink: /contactme/
+permalink: [/contactme/](https://github.com/evfitzgriff/evfitzgriff.github.io/blob/4a715d9a132affa7646784c4c2ce0c1cd4298f7b/_pages/contactme.md)
 author_profile: true
 ---
 
