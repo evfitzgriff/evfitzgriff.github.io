@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-During the first year of my PhD, I have taught multiple lectures to veterinary and Master's students. I always try to involve the students as much as possible, either through break-out groups or asking questions. I'm looking forward to future opportunities to teach in the varios graduate programs at the Cummings School. 
+During the first year of my PhD, I have taught multiple lectures to veterinary and Master's students. I always try to involve the students as much as possible, either through break-out groups or asking questions. I'm looking forward to future opportunities to teach in the various graduate programs at the Cummings School. 
 
 ## One Health Economics
 MCM: Human Dimensions of Conservation medicine
