@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a One Health practicioner focused on identifying the added value of One Health interventions, especially in the context of pastoralism in the drylands of East Africa. I received my DVM, MPH, and MS degrees from Tufts University. I am developing and validating a One Health systems economic analysis tool (OHSET) that will contribute to the emerging disipline of One Health economics for my PhD. It utilizes multicriteria decision analysis and cost-consequence analysis to help decision makers improve One Health programs. Throughout graduate school, I have consistantly worked at the intersection of human, animal, and environmental health and policy to investigate sustainable solutions that cross traditional disciplinary and international borders. When I'm not on the computer or in the field, I enjoy hiking with my wife, two dogs, and (leashed) cat in Central Massachusetts.
+I am a One Health practicioner focused on addressing challenges at the human-animal-environment interface. I specifically work with pastoralists in the drylands of East Africa on issues surrounding livelihoods, public health, and resilience. I received my DVM, MPH, and MS degrees from Tufts University. I am developing and validating a One Health systems economic analysis tool (OHSET) that will contribute to the emerging disipline of One Health economics for my PhD. It utilizes multicriteria decision analysis and cost-consequence analysis to help decision makers improve One Health programs. When I'm not on my computer or in the field, I enjoy hiking with my wife, two dogs, and (leashed) cat in Central Massachusetts.
 
 News
 ======
