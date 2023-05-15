@@ -12,7 +12,7 @@ I am a One Health practicioner focused on addressing challenges at the human-ani
 
 News
 ======
-We recently published a study on the [the use of drones to improve Rift Valley Fever Vaccination in Rwanda](https://www.mdpi.com/2076-393X/11/3/605) that was featured in a recent [Tufts News](https://vet.tufts.edu/news-events/news/vaccine-delivery-drone) article. 
+We recently published a study on the [the use of drones to improve Rift Valley Fever Vaccination in Rwanda](https://www.mdpi.com/2076-393X/11/3/605) that was featured in a [Tufts News](https://vet.tufts.edu/news-events/news/vaccine-delivery-drone) article. 
 
 Our CABI One Health Case Study titled: "One Health in Turkana County, Kenya: Applications and Lessons Learned," is currently under review. It examines the development and application of One Health policy in Turkana. Keep an eye out for that! 
 
