@@ -15,4 +15,4 @@ Check out my [Google Scholar profile](https://scholar.google.com/citations?user=
 
 **Evan F. Griffith**, Janna M. Schurer, Billy Mawindo, Rita Kwibuka, Thierry Turibyariye, & Janetrix Hellen Amuguni (2023). [The Use of Drones to Deliver Rift Valley Fever Vaccines in Rwanda: Perceptions and Recommendations](https://www.mdpi.com/2076-393X/11/3/605). _Vaccines_, 11 (3), 605. 
 
-**Evan F. Griffith**, Job Ronoh Kipkemoi, Erenius Lochede Nakadio, Linsday J. Smith, & Janetrix Hellen Amuguni (2023). "One Health in Turkana County, Kenya: Applications and Lessons Learned." _CABI One Health Cases_. _under review_
+**Evan F. Griffith**, Job Ronoh Kipkemoi, Erenius Lochede Nakadio, Linsday J. Smith, & Janetrix Hellen Amuguni (2023). "One Health in Turkana County, Kenya: Applications and Lessons Learned." _CABI One Health Cases_. _ACCEPTED FOR PUBLICATION_
