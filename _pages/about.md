@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a One Health practitioner focused on addressing challenges at the human-animal-environment interface. I specifically work with pastoralists in the drylands of East Africa on issues surrounding human and animal health, livelihoods, and climate change resilience. I received my DVM, MPH, and MS in Conservation Medicine from Tufts University. I am developing and validating a One Health cost-effectiveness tool (OHCET) for my PhD that can be used for the rapid economic assessment of One Health initiatives. When I'm not on my computer or in the field, I enjoy hiking with my wife, two dogs, and (leashed) cat in Central Massachusetts.
+I am a One Health practitioner focused on addressing challenges at the human-animal-environment interface. I specifically work with pastoralists in the drylands of East Africa on issues surrounding human and animal health, livelihoods, and climate change resilience. I received my DVM, MPH, and MS in Conservation Medicine from Tufts University. I am working on evaluating the effectiveness and appropriateness of One Health initiatives in pastoral contexts for my PhD. When I'm not on my computer or in the field, I enjoy hiking with my wife, two dogs, and (leashed) cat in Central Massachusetts.
 
 News
 ======
